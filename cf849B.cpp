@@ -4,6 +4,7 @@ using namespace std;
 int main(void)
 {
     int t;
+    int f;
     int candy = 0;
     int pos[2] = {0, 0};
     scanf("%d", &t);
