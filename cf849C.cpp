@@ -5,10 +5,9 @@ using namespace std;
 void TestCase()
 {
     string s;
-    int n, cortes;
+    int n;
     cin >> n;
     cin >> s;
-    cortes = 0;
     for(int i = 0; i <= n/2; i++)
     {
         if(s[i] == s[n - i -1])
