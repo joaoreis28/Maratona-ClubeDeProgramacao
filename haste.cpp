@@ -24,6 +24,6 @@ int dp(int n)
 int main(void)
 {
     memset(memo, -1, sizeof(memo));
-    printf("%d", dp(41));
+    printf("%d", dp(4));
    return 0;
 }
