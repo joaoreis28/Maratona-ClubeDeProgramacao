@@ -101,12 +101,5 @@ int main(void)
     }
     printf("%lld", ans);
 
-
-
-
-
-
-
-
     return 0;
 }
