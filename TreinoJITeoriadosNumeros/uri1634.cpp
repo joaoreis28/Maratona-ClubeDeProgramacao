@@ -8,6 +8,8 @@ int p[N][M];
 
 int n, m;
 
+
+
 int calcula_soma_coluna(int coluna)
 {
     int soma = 0;
